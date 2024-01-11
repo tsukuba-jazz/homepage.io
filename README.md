@@ -2,12 +2,14 @@
 ## ホームページ更新方法
 1. index.mdをクリック
 2. 画面右側に見えるはずのペンマーク(Edit this fileボタン)をクリック
-3. markdown記法に従ってHPの内容を記述する<br>参考資料：https://www.cosmo.sci.hokudai.ac.jp/~ymoteki/contents/markdown.html
-
+3. markdown記法に従ってHPの内容を記述する([参考資料](https://www.cosmo.sci.hokudai.ac.jp/~ymoteki/contents/markdown.html))
+4. しばらくしたら（Actionタブで確認できるデプロイ処理が終わったら）https://tsukuba-jazz.github.io/ を見てみて確認
 ## 注意事項
 https://github.com/tsukuba-jazz/tsukuba-jazz.github.io に書かれていることは、このファイルを含めてあらゆる人が見ることができる状態になっています（リポジトリの公開範囲がPublicということ）。<br>
 個人情報は絶対に書かないでください。
 ## 運営方針
+### github pagesというサービスで運用されています
+参考資料:https://zenn.dev/sasakiki/articles/e4d5dd28700b16
 ### 目的は外部の方への情報提供
 - SNSをやってないOB,OGの方にイベントなどの告知をする
 - 他大学、団体の営業の方に向けた情報を載せる
