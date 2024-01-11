@@ -1,9 +1,10 @@
 # 筑波大ジャズ研のみなさま
 ## ホームページ更新方法
-1. index.mdをクリック
-2. 画面右側に見えるはずのペンマーク(Edit this fileボタン)をクリック
-3. markdown記法に従ってHPの内容を記述する([参考資料](https://www.cosmo.sci.hokudai.ac.jp/~ymoteki/contents/markdown.html))
-4. しばらくしたら（Actionタブで確認できるデプロイ処理が終わったら）https://tsukuba-jazz.github.io/ を見てみて確認
+1. githubにsign inする(パスワードはジャズ研のgoogleアカウントのgoogle password managerに保存されています)
+2. index.mdをクリック
+3. 画面右側に見えるはずのペンマーク(Edit this fileボタン)をクリック
+4. markdown記法に従ってHPの内容を記述する([参考資料](https://www.cosmo.sci.hokudai.ac.jp/~ymoteki/contents/markdown.html))
+5. しばらくしたら（Actionタブで確認できるデプロイ処理が終わったら）https://tsukuba-jazz.github.io/ を見てみて確認
 ## 注意事項
 https://github.com/tsukuba-jazz/tsukuba-jazz.github.io に書かれていることは、このファイルを含めてあらゆる人が見ることができる状態になっています（リポジトリの公開範囲がPublicということ）。<br>
 個人情報は絶対に書かないでください。
